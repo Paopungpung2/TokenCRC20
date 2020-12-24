@@ -1,0 +1,29 @@
+{
+  "symbol": "PPP",
+  "address": "0x599e3D56587316628c3e591587067286829A991D",
+  "overview":{
+        "en": "The main functions of the PPP are
+– It is a coin that will Backup the price of Hpay that will happen in the future. It can be traded back and forth between HPay",
+        "zh": ""
+  },
+  "email": "Paopungpung2021@gmail.com",
+  "website": "https://paopungpung.com/",
+  "whitepaper": "https://paopungpung.com/",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2020-12-01",
+  "initial_price":{
+        "ETH":"0.02100000 ETH",
+        "USD":"12.39 USD",
+        "BTC":"0.00540000 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "https://twitter.com/paopungpung",
+    "telegram": "https://t.me/PaopungpungOfficial",
+    "github": "",
+    "facebook": "https://www.facebook.com/Paopungpungofficial",
+    "reddit": "",
+    "slack": "",
+    "medium": ""
+  }
+}
